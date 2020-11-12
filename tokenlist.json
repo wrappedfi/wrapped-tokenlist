@@ -1,12 +1,12 @@
 {
   "name": "Wrapped Tokens",
-  "logoURI": "ipfs://QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
+  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
   "keywords": [
     "wrapped",
     "bitcoin",
     "ether"
   ],
-  "timestamp": "2020-10-23T00:00:00+00:00",
+  "timestamp": "2020-11-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -48,7 +48,7 @@
       "symbol": "WZEC",
       "name": "Wrapped ZEC",
       "decimals": 18,
-      "logoURI": "ipfs://QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
       "tags": [
         "zec",
         "zcash"
@@ -60,7 +60,7 @@
       "symbol": "WFIL",
       "name": "Wrapped FIL",
       "decimals": 18,
-      "logoURI": "ipfs://QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
       "tags": [
         "fil",
         "filecoin"
@@ -147,6 +147,6 @@
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   }
 }
