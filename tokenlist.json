@@ -1,0 +1,152 @@
+{
+  "name": "Wrapped Tokens",
+  "logoURI": "ipfs://QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
+  "keywords": [
+    "wrapped",
+    "bitcoin",
+    "ether"
+  ],
+  "timestamp": "2020-10-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "tags": [
+        "wrapped",
+        "bitcoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
+      "symbol": "cWBTC",
+      "name": "Compound Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/compoundwrappedbtc_32.png",
+      "tags": [
+        "wrapped",
+        "compound",
+        "bitcoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "tags": [
+        "ether"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+      "symbol": "WZEC",
+      "name": "Wrapped ZEC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
+      "tags": [
+        "zec",
+        "zcash"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+      "symbol": "WFIL",
+      "name": "Wrapped FIL",
+      "decimals": 18,
+      "logoURI": "ipfs://QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
+      "tags": [
+        "fil",
+        "filecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+      "symbol": "wNXM",
+      "name": "Wrapped NXM",
+      "decimals": 18,
+      "tags": [
+        "nxm",
+        "nexus"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "tags": [
+        "usdt",
+        "tether"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+      "symbol": "renBTC",
+      "name": "renBTC",
+      "decimals": 8,
+      "tags": [
+        "wrapped",
+        "bitcoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2",
+      "symbol": "renZEC",
+      "name": "renZEC",
+      "decimals": 8,
+      "tags": [
+        "wrapped",
+        "zcash"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
+      "symbol": "renBCH",
+      "name": "renBCH",
+      "decimals": 8,
+      "tags": [
+        "wrapped",
+        "bitcoin",
+        "cash"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+      "symbol": "TBTC",
+      "name": "tBTC",
+      "decimals": 18,
+      "tags": [
+        "trustless",
+        "bitcoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 2
+  }
+}
