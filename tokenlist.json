@@ -1,12 +1,12 @@
 {
   "name": "Wrapped Tokens",
-  "logoURI": "ipfs://QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
+  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
   "keywords": [
     "wrapped",
     "bitcoin",
     "ether"
   ],
-  "timestamp": "2020-10-23T00:00:00+00:00",
+  "timestamp": "2020-11-22T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -48,7 +48,7 @@
       "symbol": "WZEC",
       "name": "Wrapped ZEC",
       "decimals": 18,
-      "logoURI": "ipfs://QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
       "tags": [
         "zec",
         "zcash"
@@ -60,7 +60,7 @@
       "symbol": "WFIL",
       "name": "Wrapped FIL",
       "decimals": 18,
-      "logoURI": "ipfs://QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
       "tags": [
         "fil",
         "filecoin"
@@ -142,11 +142,45 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA3865E64121537b5b59B5e239Db4aCBe6F36aa74",
+      "symbol": "WXTZ",
+      "name": "Wrapped Tezos",
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmefZX2pyEQKaE4wZ63oa8S1SQ4eW3oLGiWLdiVLeGfAMC",
+      "tags": [
+        "tezos"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x219F4a1D142DFC564bD6e80c022cD29f3394A999",
+      "symbol": "WXLM",
+      "name": "Wrapped Stellar",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmPkYr86Qzo2rRQcYAwM9wgY9jVCy9cVLfiM2WQqvdhPKg",
+      "decimals": 18,
+      "tags": [
+        "stellar"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x53c4871322Bb47e7A24136fce291a6dcC832a294",
+      "symbol": "WLTC",
+      "name": "Wrapped Litecoin",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYKA2tnBQWSdxSQnSv4j3Dfnfp87VDC3LpCe7BqAjnqxY",
+      "decimals": 18,
+      "tags": [
+        "litecoin"
+      ]
     }
+
   ],
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 2
+    "minor": 5,
+    "patch": 3
   }
 }
