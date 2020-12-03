@@ -175,6 +175,30 @@
       "tags": [
         "litecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+      "symbol": "pBTC",
+      "name": "pTokens BTC",
+      "logoURI": "https://ipfs.io/ipfs/QmRDD4yQ7HoamUSnqE9AU5pQsZxGaefKMyhUj8yCA1D1Db",
+      "decimals": 18,
+      "tags": [
+        "wrapped",
+        "bitcoin"
+      ]
+    },
+        {
+      "chainId": 1,
+      "address": "0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f",
+      "symbol": "pLTC",
+      "name": "pTokens LTC",
+      "logoURI": "https://ipfs.io/ipfs/Qmabr5p7pw9nHu9s1V9eMzkBW6g81VGZzWqMMqYsGreqkk",
+      "decimals": 18,
+      "tags": [
+        "wrapped",
+        "litecoin"
+      ]
     }
 
   ],
