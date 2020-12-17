@@ -175,12 +175,35 @@
       "tags": [
         "litecoin"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+      "symbol": "wCELO",
+      "name": "Wrapped Celo",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmZonfTMoBVkvom5bxuDT2mgWQ6yjh1aaoA7erVnTUxoWV",
+      "decimals": 18,
+      "tags": [
+        "celo"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+      "symbol": "wCUSD",
+      "name": "Wrapped Celo Dollars",
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
+      "decimals": 18,
+      "tags": [
+        "celo",
+        "dollar",
+        "USD"
+      ]
     }
-
   ],
   "version": {
     "major": 1,
-    "minor": 5,
+    "minor": 6,
     "patch": 3
   }
 }
