@@ -199,11 +199,102 @@
         "dollar",
         "USD"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x29c8c00ec4d2Aac7232D4B974707b850c1c28285",
+      "symbol": "wDASH",
+      "name": "Wrapped DASH",
+      "logoURI": "https://etherscan.io/token/images/wrappeddash_32.png",
+      "decimals": 18,
+      "tags": [
+        "wrapped",
+        "dash"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+      "symbol": "BBTC",
+      "name": "Binance Wrapped BTC",
+      "logoURI": "https://etherscan.io/token/images/binance-btc_32.png",
+      "decimals": 8,
+      "tags": [
+        "binance",
+        "wrapped",
+        "bitcoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7884f51dc1410387371ce61747cb6264e1daee0b",
+      "symbol": "BDOT",
+      "name": "Binance Wrapped DOT",
+      "logoURI": "https://etherscan.io/token/images/binance-dot_32.png",
+      "decimals": 10,
+      "tags": [
+        "binance",
+        "wrapped",
+        "polkadot"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x7884f51dc1410387371ce61747cb6264e1daee0b",
+      "symbol": "BDOT",
+      "name": "Binance Wrapped DOT",
+      "logoURI": "https://etherscan.io/token/images/binance-dot_32.png",
+      "decimals": 10,
+      "tags": [
+        "binance",
+        "wrapped",
+        "polkadot"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x8E16bf47065Fe843A82f4399bAF5aBac4E0822B7",
+      "symbol": "BFIL",
+      "name": "Binance Wrapped FIL",
+      "logoURI": "https://etherscan.io/token/images/binance-filecoin_32.png",
+      "decimals": 18,
+      "tags": [
+        "binance",
+        "wrapped",
+        "filecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85c4EdC43724e954e5849cAAab61A26a9CB65F1B",
+      "symbol": "BBCH",
+      "name": "Binance Wrapped BCH",
+      "logoURI": "https://etherscan.io/token/images/binance-bch_32.png",
+      "decimals": 8,
+      "tags": [
+        "binance",
+        "wrapped",
+        "bitcoin",
+        "cash",
+        "bcash"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+      "symbol": "UST",
+      "name": "Wrapped UST Token",
+      "logoURI": "https://etherscan.io/token/images/terra-ust_32.png",
+      "decimals": 18,
+      "tags": [
+        "wrapped",
+        "ust"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 3
   }
 }
