@@ -11,7 +11,7 @@ This repository contains a JSON file with assets currently available through Wra
 
 <!-- links & profiles -->
 
-[![Website](https://img.shields.io/website-up-down-green-red/https/wrapped.com.svg)](https://wrapped.com)
+[![Website](https://img.shields.io/badge/website-up-green)](https://wrapped.com)
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://medium.com/wrapped/)
 [![Forums](https://img.shields.io/badge/forums-up-green)](https://forums.wrapped.com/)
 [![Twitter](https://img.shields.io/twitter/follow/wrappedfi?style=social)](https://twitter.com/wrappedfi)
