@@ -5,9 +5,11 @@ wrapped.com" width="600" style="border:none;"/>
   </a>
 </p>
 
-# Wrapped.com Assets
+# Wrapped Assets
 
-This repository contains a JSON file with assets currently available through Wrapped.com, along with those that may become available in the near future.
+This repository contains a JSON file with assets currently available through Wrapped.com, as well as many others throughout the space.
+
+Know about a wrapped asset that isn't included in our list? Please [open a new issue](https://github.com/tokensoft/wrapped-tokenlist/issues/new/choose) to tell us about it!
 
 <!-- links & profiles -->
 
