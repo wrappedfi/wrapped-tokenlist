@@ -237,6 +237,15 @@
       "logoURI": "https://etherscan.io/token/images/wrappedcres_32.png",
       "decimals": 18,
       "tags": ["wrapped", "cres", "crescofin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eb191d30665EAB255b25Ce797052878dDD3BB6F",
+      "symbol": "wXZC",
+      "name": "Wrapped Zcoin",
+      "logoURI": "https://etherscan.io/token/images/wrappedzcoin_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "zcoin"]
     }
   ],
   "version": {
