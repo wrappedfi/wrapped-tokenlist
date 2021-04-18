@@ -264,6 +264,15 @@
       "logoURI": "https://etherscan.io/token/images/xLON_32.png",
       "decimals": 18,
       "tags": ["wrapped", "tokenlon"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393",
+      "symbol": "cyWETH",
+      "name": "Yearn Wrapped Ether",
+      "logoURI": "https://etherscan.io/token/images/cyWETH_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "yearn", "ether"]
     }
   ],
   "version": {
