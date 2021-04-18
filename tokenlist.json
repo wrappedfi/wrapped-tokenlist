@@ -219,6 +219,15 @@
       "logoURI": "https://etherscan.io/token/images/wrappeddgld_32.png",
       "decimals": 8,
       "tags": ["wrapped", "dgld"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a",
+      "symbol": "wCRES",
+      "name": "Wrapped CRES",
+      "logoURI": "https://etherscan.io/token/images/wrappedcres_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "cres", "crescofin"]
     }
   ],
   "version": {
