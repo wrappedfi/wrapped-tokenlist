@@ -204,6 +204,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+      "symbol": "MIR",
+      "name": "Wrapped MIR Token",
+      "logoURI": "https://etherscan.io/token/images/wrappedmirtoken_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "mir"]
+    },
+    {
+      "chainId": 1,
       "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
       "symbol": "UST",
       "name": "Wrapped UST Token",
