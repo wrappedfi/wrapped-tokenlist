@@ -282,6 +282,15 @@
       "logoURI": "https://etherscan.io/token/images/axieinfinity_32.png",
       "decimals": 18,
       "tags": ["wrapped", "origin", "axie"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15334dcb171e8b65d6650321581dca83be870115",
+      "symbol": "wBIND",
+      "name": "Wrapped BIND",
+      "logoURI": "https://etherscan.io/token/images/wrappedbind_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "bind"]
     }
   ],
   "version": {
