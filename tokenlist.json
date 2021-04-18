@@ -201,6 +201,15 @@
       "logoURI": "https://etherscan.io/token/images/terra-ust_32.png",
       "decimals": 18,
       "tags": ["wrapped", "ust"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+      "symbol": "WCK",
+      "name": "Wrapped CryptoKitties",
+      "logoURI": "https://assets.coingecko.com/coins/images/8797/small/WCK.png",
+      "decimals": 18,
+      "tags": ["wrapped", "cryptokitties"]
     }
   ],
   "version": {
