@@ -273,6 +273,15 @@
       "logoURI": "https://etherscan.io/token/images/cyWETH_32.png",
       "decimals": 8,
       "tags": ["wrapped", "yearn", "ether"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+      "symbol": "WOA",
+      "name": "Wrapped Origin Axie",
+      "logoURI": "https://etherscan.io/token/images/axieinfinity_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "origin", "axie"]
     }
   ],
   "version": {
