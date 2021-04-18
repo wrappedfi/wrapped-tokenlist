@@ -1,12 +1,8 @@
 {
   "name": "Wrapped Tokens",
   "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
-  "keywords": [
-    "wrapped",
-    "bitcoin",
-    "ether"
-  ],
-  "timestamp": "2020-11-22T00:00:00+00:00",
+  "keywords": ["wrapped", "bitcoin", "ether"],
+  "timestamp": "2021-04-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -14,10 +10,7 @@
       "symbol": "WBTC",
       "name": "Wrapped BTC",
       "decimals": 8,
-      "tags": [
-        "wrapped",
-        "bitcoin"
-      ]
+      "tags": ["wrapped", "bitcoin"]
     },
     {
       "chainId": 1,
@@ -26,11 +19,7 @@
       "name": "Compound Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://etherscan.io/token/images/compoundwrappedbtc_32.png",
-      "tags": [
-        "wrapped",
-        "compound",
-        "bitcoin"
-      ]
+      "tags": ["wrapped", "compound", "bitcoin"]
     },
     {
       "chainId": 1,
@@ -38,9 +27,7 @@
       "symbol": "WETH",
       "name": "Wrapped Ether",
       "decimals": 18,
-      "tags": [
-        "ether"
-      ]
+      "tags": ["ether"]
     },
     {
       "chainId": 1,
@@ -49,10 +36,7 @@
       "name": "Wrapped ZEC",
       "decimals": 18,
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYNLKHDEoG9FLJtbJ1r8HCyi7by9gksuacRkhkakxwEQ8",
-      "tags": [
-        "zec",
-        "zcash"
-      ]
+      "tags": ["zec", "zcash"]
     },
     {
       "chainId": 1,
@@ -61,10 +45,7 @@
       "name": "Wrapped FIL",
       "decimals": 18,
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmU6oL2CMox9sBz2KpsqPHxrKBoATMwe4yRzvqMVh8qjuc",
-      "tags": [
-        "fil",
-        "filecoin"
-      ]
+      "tags": ["fil", "filecoin"]
     },
     {
       "chainId": 1,
@@ -72,10 +53,7 @@
       "symbol": "wNXM",
       "name": "Wrapped NXM",
       "decimals": 18,
-      "tags": [
-        "nxm",
-        "nexus"
-      ]
+      "tags": ["nxm", "nexus"]
     },
     {
       "chainId": 1,
@@ -83,10 +61,7 @@
       "symbol": "USDT",
       "name": "Tether USD",
       "decimals": 6,
-      "tags": [
-        "usdt",
-        "tether"
-      ]
+      "tags": ["usdt", "tether"]
     },
     {
       "chainId": 1,
@@ -94,10 +69,7 @@
       "symbol": "renBTC",
       "name": "renBTC",
       "decimals": 8,
-      "tags": [
-        "wrapped",
-        "bitcoin"
-      ]
+      "tags": ["wrapped", "bitcoin"]
     },
     {
       "chainId": 1,
@@ -105,10 +77,7 @@
       "symbol": "renZEC",
       "name": "renZEC",
       "decimals": 8,
-      "tags": [
-        "wrapped",
-        "zcash"
-      ]
+      "tags": ["wrapped", "zcash"]
     },
     {
       "chainId": 1,
@@ -116,11 +85,7 @@
       "symbol": "renBCH",
       "name": "renBCH",
       "decimals": 8,
-      "tags": [
-        "wrapped",
-        "bitcoin",
-        "cash"
-      ]
+      "tags": ["wrapped", "bitcoin", "cash"]
     },
     {
       "chainId": 1,
@@ -128,10 +93,7 @@
       "symbol": "TBTC",
       "name": "tBTC",
       "decimals": 18,
-      "tags": [
-        "trustless",
-        "bitcoin"
-      ]
+      "tags": ["trustless", "bitcoin"]
     },
     {
       "chainId": 1,
@@ -139,9 +101,7 @@
       "symbol": "USDC",
       "name": "USDC",
       "decimals": 6,
-      "tags": [
-        "stablecoin"
-      ]
+      "tags": ["stablecoin"]
     },
     {
       "chainId": 1,
@@ -150,9 +110,7 @@
       "name": "Wrapped Tezos",
       "decimals": 18,
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmefZX2pyEQKaE4wZ63oa8S1SQ4eW3oLGiWLdiVLeGfAMC",
-      "tags": [
-        "tezos"
-      ]
+      "tags": ["tezos"]
     },
     {
       "chainId": 1,
@@ -161,9 +119,7 @@
       "name": "Wrapped Stellar",
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmPkYr86Qzo2rRQcYAwM9wgY9jVCy9cVLfiM2WQqvdhPKg",
       "decimals": 18,
-      "tags": [
-        "stellar"
-      ]
+      "tags": ["stellar"]
     },
     {
       "chainId": 1,
@@ -172,9 +128,7 @@
       "name": "Wrapped Litecoin",
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYKA2tnBQWSdxSQnSv4j3Dfnfp87VDC3LpCe7BqAjnqxY",
       "decimals": 18,
-      "tags": [
-        "litecoin"
-      ]
+      "tags": ["litecoin"]
     },
     {
       "chainId": 1,
@@ -183,9 +137,7 @@
       "name": "Wrapped Celo",
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmZonfTMoBVkvom5bxuDT2mgWQ6yjh1aaoA7erVnTUxoWV",
       "decimals": 18,
-      "tags": [
-        "celo"
-      ]
+      "tags": ["celo"]
     },
     {
       "chainId": 1,
@@ -194,11 +146,7 @@
       "name": "Wrapped Celo Dollars",
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXxynmoaP4nxZSJbri3FqwoYLDTxjfB8jToLuGB8PMwgb",
       "decimals": 18,
-      "tags": [
-        "celo",
-        "dollar",
-        "USD"
-      ]
+      "tags": ["celo", "dollar", "USD"]
     },
     {
       "chainId": 1,
@@ -207,10 +155,7 @@
       "name": "Wrapped DASH",
       "logoURI": "https://etherscan.io/token/images/wrappeddash_32.png",
       "decimals": 18,
-      "tags": [
-        "wrapped",
-        "dash"
-      ]
+      "tags": ["wrapped", "dash"]
     },
     {
       "chainId": 1,
@@ -219,11 +164,7 @@
       "name": "Binance Wrapped BTC",
       "logoURI": "https://etherscan.io/token/images/binance-btc_32.png",
       "decimals": 8,
-      "tags": [
-        "binance",
-        "wrapped",
-        "bitcoin"
-      ]
+      "tags": ["binance", "wrapped", "bitcoin"]
     },
     {
       "chainId": 1,
@@ -232,11 +173,7 @@
       "name": "Binance Wrapped DOT",
       "logoURI": "https://etherscan.io/token/images/binance-dot_32.png",
       "decimals": 10,
-      "tags": [
-        "binance",
-        "wrapped",
-        "polkadot"
-      ]
+      "tags": ["binance", "wrapped", "polkadot"]
     },
     {
       "chainId": 1,
@@ -245,11 +182,7 @@
       "name": "Binance Wrapped FIL",
       "logoURI": "https://etherscan.io/token/images/binance-filecoin_32.png",
       "decimals": 18,
-      "tags": [
-        "binance",
-        "wrapped",
-        "filecoin"
-      ]
+      "tags": ["binance", "wrapped", "filecoin"]
     },
     {
       "chainId": 1,
@@ -258,13 +191,7 @@
       "name": "Binance Wrapped BCH",
       "logoURI": "https://etherscan.io/token/images/binance-bch_32.png",
       "decimals": 8,
-      "tags": [
-        "binance",
-        "wrapped",
-        "bitcoin",
-        "cash",
-        "bcash"
-      ]
+      "tags": ["binance", "wrapped", "bitcoin", "cash", "bcash"]
     },
     {
       "chainId": 1,
@@ -273,10 +200,7 @@
       "name": "Wrapped UST Token",
       "logoURI": "https://etherscan.io/token/images/terra-ust_32.png",
       "decimals": 18,
-      "tags": [
-        "wrapped",
-        "ust"
-      ]
+      "tags": ["wrapped", "ust"]
     }
   ],
   "version": {
