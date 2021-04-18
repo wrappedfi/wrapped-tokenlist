@@ -89,6 +89,15 @@
     },
     {
       "chainId": 1,
+      "address": "0x3832d2F059E55934220881F831bE501D180671A7",
+      "symbol": "renDOGE",
+      "name": "renDOGE",
+      "logoURI": "https://etherscan.io/token/images/rendoge_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "doge", "dogecoin"]
+    },
+    {
+      "chainId": 1,
       "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
       "symbol": "TBTC",
       "name": "tBTC",
