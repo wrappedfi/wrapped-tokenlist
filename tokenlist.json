@@ -277,11 +277,24 @@
         "wrapped",
         "ust"
       ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xd4e7A6E7f9aA5909036338a3C4cD57319d613190",
+      "symbol": "WUTN",
+      "name": "Wrapped Universa",
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
+      "tags": [
+        "UTN",
+        "UTNP",
+        "Universa"
+      ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 3
   }
 }
