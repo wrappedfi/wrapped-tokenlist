@@ -2,7 +2,7 @@
   "name": "Wrapped Tokens",
   "logoURI": "https://cloudflare-ipfs.com/ipfs/QmUJQF5rDNQn37ToqCynz6iecGqAmeKHDQCigJWpUwuVLN",
   "keywords": ["wrapped", "bitcoin", "ether"],
-  "timestamp": "2020-11-22T00:00:00+00:00",
+  "timestamp": "2021-04-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -86,6 +86,15 @@
       "name": "renBCH",
       "decimals": 8,
       "tags": ["wrapped", "bitcoin", "cash"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x3832d2F059E55934220881F831bE501D180671A7",
+      "symbol": "renDOGE",
+      "name": "renDOGE",
+      "logoURI": "https://etherscan.io/token/images/rendoge_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "doge", "dogecoin"]
     },
     {
       "chainId": 1,
@@ -195,12 +204,93 @@
     },
     {
       "chainId": 1,
+      "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+      "symbol": "MIR",
+      "name": "Wrapped MIR Token",
+      "logoURI": "https://etherscan.io/token/images/wrappedmirtoken_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "mir"]
+    },
+    {
+      "chainId": 1,
       "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
       "symbol": "UST",
       "name": "Wrapped UST Token",
       "logoURI": "https://etherscan.io/token/images/terra-ust_32.png",
       "decimals": 18,
       "tags": ["wrapped", "ust"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+      "symbol": "WCK",
+      "name": "Wrapped CryptoKitties",
+      "logoURI": "https://assets.coingecko.com/coins/images/8797/small/WCK.png",
+      "decimals": 18,
+      "tags": ["wrapped", "cryptokitties"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x123151402076fc819B7564510989e475c9cD93CA",
+      "symbol": "wDGLD",
+      "name": "Wrapped DGLD",
+      "logoURI": "https://etherscan.io/token/images/wrappeddgld_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "dgld"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0afaa285ce85974c3c881256cb7f225e3a1178a",
+      "symbol": "wCRES",
+      "name": "Wrapped CRES",
+      "logoURI": "https://etherscan.io/token/images/wrappedcres_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "cres", "crescofin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x5eb191d30665EAB255b25Ce797052878dDD3BB6F",
+      "symbol": "wXZC",
+      "name": "Wrapped Zcoin",
+      "logoURI": "https://etherscan.io/token/images/wrappedzcoin_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "zcoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf88506b0f1d30056b9e5580668d5875b9cd30f23",
+      "symbol": "xLON",
+      "name": "Wrapped Tokenlon",
+      "logoURI": "https://etherscan.io/token/images/xLON_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "tokenlon"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x41c84c0e2ee0b740cf0d31f63f3b6f627dc6b393",
+      "symbol": "cyWETH",
+      "name": "Yearn Wrapped Ether",
+      "logoURI": "https://etherscan.io/token/images/cyWETH_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "yearn", "ether"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+      "symbol": "WOA",
+      "name": "Wrapped Origin Axie",
+      "logoURI": "https://etherscan.io/token/images/axieinfinity_32.png",
+      "decimals": 18,
+      "tags": ["wrapped", "origin", "axie"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x15334dcb171e8b65d6650321581dca83be870115",
+      "symbol": "wBIND",
+      "name": "Wrapped BIND",
+      "logoURI": "https://etherscan.io/token/images/wrappedbind_32.png",
+      "decimals": 8,
+      "tags": ["wrapped", "bind"]
     },
     {
       "chainId": 1,
