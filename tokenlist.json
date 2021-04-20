@@ -209,7 +209,7 @@
       "name": "Wrapped Universa",
       "decimals": 18,
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
-      "tags": ["UTN", "UTNP", "Universa"]
+      "tags": ["wrapped", "utn", "utnp", "universa"]
     }
   ],
   "version": {
