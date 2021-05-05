@@ -300,6 +300,15 @@
       "decimals": 18,
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
       "tags": ["wrapped", "utn", "utnp", "universa"]
+    },
+        {
+      "chainId": 1,
+      "address": "0xa1f82e14bc09a1b42710df1a8a999b62f294e592",
+      "symbol": "eCFX",
+      "name": "Wrapped CFX",
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1365344971948179466/DoTPVgGu_400x400.jpg",
+      "tags": ["cfx", "ecfx", "conflux"]
     }
   ],
   "version": {
