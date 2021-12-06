@@ -301,7 +301,23 @@
       "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
       "tags": ["wrapped", "utn", "utnp", "universa"]
     },
-        {
+    {
+      "chainId": 42161,
+      "address": "0x3f872d9634089252212cd9c00e107988b89c9142",
+      "symbol": "WUTN",
+      "name": "Wrapped Universa",
+      "decimals": 18,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmVDL8ji6HKEmt5gFo6Gi1roXk6SNifL3omG5RjRCGRMDH",
+      "tags": ["wrapped", "utn", "utnp", "universa"],
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd4e7A6E7f9aA5909036338a3C4cD57319d613190"
+          }
+        }
+      }
+    },
+    {
       "chainId": 1,
       "address": "0xa1f82e14bc09a1b42710df1a8a999b62f294e592",
       "symbol": "eCFX",
@@ -313,7 +329,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }
