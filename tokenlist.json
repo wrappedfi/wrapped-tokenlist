@@ -227,7 +227,7 @@
       "name": "Wrapped CryptoKitties",
       "logoURI": "https://assets.coingecko.com/coins/images/8797/small/WCK.png",
       "decimals": 18,
-      "tags": ["wrapped", "cryptokitties"]
+      "tags": ["wrapped", "crypto", "kitties"]
     },
     {
       "chainId": 1,
