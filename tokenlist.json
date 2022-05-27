@@ -31,6 +31,30 @@
     },
     {
       "chainId": 1,
+      "address": "0x5c147e74D63B1D31AA3Fd78Eb229B65161983B2b",
+      "symbol": "WFLOW",
+      "name": "Wrapped Flow",
+      "decimals": 18,
+      "tags": ["wrapped", "flow"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
+      "symbol": "WXRP",
+      "name": "Wrapped XRP",
+      "decimals": 18,
+      "tags": ["wrapped", "xrp", "ripple"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
+      "symbol": "WKDA",
+      "name": "Wrapped Kadena",
+      "decimals": 18,
+      "tags": ["wrapped", "kda", "kadena"]
+    },
+    {
+      "chainId": 1,
       "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
       "symbol": "WZEC",
       "name": "Wrapped ZEC",
